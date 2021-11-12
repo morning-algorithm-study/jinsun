@@ -11,6 +11,7 @@ function solution(numbers) {
         .reduce((a, b) => a + b);
     return result;
 }
+// array includes ES2016부터 적용됨
 
 // 모범답안1
 function solution(numbers) {
