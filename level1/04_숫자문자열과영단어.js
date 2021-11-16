@@ -1,5 +1,5 @@
 // 문제 https://programmers.co.kr/learn/courses/30/lessons/81301
-// 2021.11.15 level1 숫자 문자열과 영단어
+// 2021.11.15 level1 - 숫자 문자열과 영단어
 
 // 내 답안
 function solution(s) {
