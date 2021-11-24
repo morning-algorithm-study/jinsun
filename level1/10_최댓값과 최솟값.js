@@ -1,5 +1,5 @@
 // 문제 https://programmers.co.kr/learn/courses/30/lessons/12939
-// 2021.11.22 level1 - 최댓값과 최솟값
+// 2021.11.22 level2 - 최댓값과 최솟값
 
 // 내 답안
 function solution(s) {
