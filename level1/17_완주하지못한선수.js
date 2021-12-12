@@ -6,4 +6,6 @@ function solution(participant, completion) {
     let result = [...new Set(participant.concat(completion))];
     console.log(result);
 }
+
+// splice 처리 해보기
 // 동명이인 처리가 안됨
