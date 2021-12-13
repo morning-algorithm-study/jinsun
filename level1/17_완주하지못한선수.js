@@ -9,3 +9,4 @@ function solution(participant, completion) {
 
 // splice 처리 해보기
 // 동명이인 처리가 안됨
+//ㅠㅠㅠㅠㅠ 모르겠다 어떻게 하는거지
