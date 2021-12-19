@@ -15,4 +15,14 @@ function solution(x, n) {
     return answer;
 }
 
-// 모범답안
+// 모범답안 1
+function solution(x, n) {
+    return Array(n)
+        .fill(x)
+        .map((v, i) => (i + 1) * v);
+}
+
+// 모범답안 2
+function solution(x, n) {
+    return [...Array(n).keys()].map((v) => (v + 1) * x);
+}
