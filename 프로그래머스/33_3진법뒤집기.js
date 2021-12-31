@@ -1,5 +1,5 @@
 // 문제 https://programmers.co.kr/learn/courses/30/lessons/68935
-// 2021.12.20 level1 - 3진법 뒤집기
+// 2021.12.30 level1 - 3진법 뒤집기
 
 // 내 답안
 function solution(n) {
